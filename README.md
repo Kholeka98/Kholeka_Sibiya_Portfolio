@@ -8,6 +8,7 @@ The goal of this project is to conduct exploratory data analysis on the supply c
 - What is the revenue generated from each geographical location?
 - What relationship exists between price and product quantity sold?
 - Which product category generates the highest revenue?
+- 
 The tool used is Python and the dataset is from www.kaggle.com
 
 
