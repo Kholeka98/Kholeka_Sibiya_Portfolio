@@ -1,5 +1,5 @@
 # Kholeka_Sibiya_Portfolio
-Data Analytics
+## Data Analytics
 
 [Project 1: Exploratory Data Analysis](https://github.com/Kholeka98/Data_Cleaning_Excel/blob/main)
 
