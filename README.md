@@ -11,4 +11,5 @@ The goal of this project is to conduct exploratory data analysis on the supply c
 
 The tool used is Python and the dataset is from www.kaggle.com
 
+[Project 2: Machine learning model](https://github.com/Kholeka98/Machine-learning)
 
