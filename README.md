@@ -9,7 +9,5 @@ The goal of this project is to conduct exploratory data analysis on the supply c
 - What relationship exists between price and product quantity sold?
 - Which product category generates the highest revenue?
 
-The tool used is Python and the dataset is from www.kaggle.com
-
 [Project 2:Machine Learning: Finding Optimal Model and Hyperparameters](https://github.com/Kholeka98/Machine-learning)
 
