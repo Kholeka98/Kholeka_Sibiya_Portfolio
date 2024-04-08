@@ -3,11 +3,8 @@
 
 [Project 1: Exploratory Data Analysis](https://github.com/Kholeka98/Data_Cleaning_Excel/blob/main)
 
-## Project Overview
-The goal of this project is to conduct exploratory data analysis on the supply chain dataset and answer the following questions:
-- What is the revenue generated from each geographical location?
-- What relationship exists between price and product quantity sold?
-- Which product category generates the highest revenue?
+## Project Objective
+The primary objective of this project is to provide actionable insights to the marketing team regarding sales performance across various locations and product types. By addressing key questions such as revenue generation per location, the correlation between price and product sales across different product types, and identifying the highest revenue-generating product types, this initiative aims to empower the marketing team to optimize revenue streams effectively. Ultimately, the project seeks to facilitate informed decision-making and the formulation of targeted strategies to enhance overall sales performance and maximize revenue potential.
 
 [Project 2: Machine Learning: Finding Optimal Model and Hyperparameters](https://github.com/Kholeka98/Machine-learning)
 
