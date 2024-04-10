@@ -18,7 +18,7 @@ The objective of this SQL project is to conduct a comprehensive performance anal
 - **Uncover Insights**: Extract actionable insights from the analysis to understand which products are performing well and which may require further attention or improvement strategies.
 - **Inform Decision-Making**: Provide stakeholders with valuable insights to inform decision-making processes related to product management, marketing strategies, inventory planning, and resource allocation.
 
-**Skills**: Excel, SQL, SQL queries, and Database Management
+**Skills**: Excel, SQL queries, and Database Management
 
 ## [Project 3: Machine Learning: Finding Optimal Model and Hyperparameters](https://github.com/Kholeka98/Machine-learning)
 
