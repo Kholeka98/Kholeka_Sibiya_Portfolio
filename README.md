@@ -20,7 +20,11 @@ The objective of this SQL project is to conduct a comprehensive performance anal
 
 **Skills**: Excel, SQL queries, and Database Management
 
-## [Project 3: Machine Learning: Finding Optimal Model and Hyperparameters](https://github.com/Kholeka98/Machine-learning)
+## [Project 3: Amazon Online Sales Analysis Dashboard ](## [Project 2: Performance Evaluation Analysis](https://github.com/Kholeka98/Performance-Evaluation/blob/main)
+)
+
+
+## [Project 4: Machine Learning: Finding Optimal Model and Hyperparameters](https://github.com/Kholeka98/Machine-learning)
 
 ### Project Overview
 The aim of this project is to develop an optimal predictive model for estimating car prices accurately. Leveraging machine learning techniques and advanced data analytics, the project seeks to create a robust model that accounts for various factors influencing car prices, such as make, model, year, mileage, and features.
