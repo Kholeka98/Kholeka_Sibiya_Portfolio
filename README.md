@@ -8,7 +8,7 @@ The primary objective of this project is to provide actionable insights to the m
 
 **Skills**: Python, Business Analysis, Data aggregation, and Data visualization
 
-## [Project 2: Performance Evaluation Analysis](https://github.com/Kholeka98/Performance-Evaluation/blob/main)
+## [Project 2: Performance Evaluation Analysis](https://github.com/Kholeka98/Performance-Evaluation)
 
 ### Project objective
 The objective of this SQL project is to conduct a comprehensive performance analysis of four products based on their quantity sold and revenue generated. Through the utilization of SQL queries and database management techniques, this project aims to:
@@ -20,7 +20,7 @@ The objective of this SQL project is to conduct a comprehensive performance anal
 
 **Skills**: Excel, SQL queries, and Database Management
 
-## [Project 3: Amazon Online Sales Analysis Dashboard ](https://github.com/Kholeka98/Performance-Evaluation/blob/main)
+## [Project 3: Amazon Online Sales Analysis Dashboard ](https://github.com/Kholeka98/Amazon-analysis)
 
 
 
