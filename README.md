@@ -20,8 +20,8 @@ The objective of this SQL project is to conduct a comprehensive performance anal
 
 **Skills**: Excel, SQL queries, and Database Management
 
-## [Project 3: Amazon Online Sales Analysis Dashboard ](## [Project 2: Performance Evaluation Analysis](https://github.com/Kholeka98/Performance-Evaluation/blob/main)
-)
+## [Project 3: Amazon Online Sales Analysis Dashboard ](https://github.com/Kholeka98/Performance-Evaluation/blob/main)
+
 
 
 ## [Project 4: Machine Learning: Finding Optimal Model and Hyperparameters](https://github.com/Kholeka98/Machine-learning)
