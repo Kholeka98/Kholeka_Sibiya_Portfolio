@@ -32,3 +32,10 @@ By utilizing SQL's querying capabilities, the project aims to delve deep into th
 
 ### Project Overview
 The aim of this project is to develop an optimal predictive model for estimating car prices accurately. Leveraging machine learning techniques and advanced data analytics, the project seeks to create a robust model that accounts for various factors influencing car prices, such as make, model, year, mileage, and features.
+
+
+## [Project 5: Tableau Project Portfolio](https://public.tableau.com/app/profile/kholeka.sibiya/vizzes)
+### Project Overview
+To showcase a diverse collection of Tableau projects that demonstrate my proficiency in data visualization and analysis, as well as my ability to derive insights from various datasets. Through this portfolio, I aim to share my expertise in transforming complex data into visually appealing and informative dashboards, while also highlighting my creative approach to solving real-world problems through data-driven decision-making.
+
+**Skills**: Data Visualization, Data Cleaning, ETL and Data Manipulation
