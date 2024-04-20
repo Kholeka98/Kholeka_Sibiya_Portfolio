@@ -21,9 +21,11 @@ The objective of this SQL project is to conduct a comprehensive performance anal
 **Skills**: Excel, SQL queries, and Database Management
 
 ## [Project 3: Amazon Online Sales Analysis Dashboard ](https://github.com/Kholeka98/Amazon-analysis)
-The purpose of this project is to design and implement a comprehensive dashboard tailored to provide in-depth insights into Amazon sales data for the year 2022. Leveraging SQL queries to extract data from relevant tables, the dashboard will encompass dynamic visualizations and interactive features, enabling users to delve into sales, product, and shipping data with precision and efficiency. This dashboard aims to empower users with actionable insights and facilitate informed decision-making processes."
+In this project, the focus is on conducting a thorough analysis of an Amazon online sales dataset using SQL queries. The dataset contains information on sales, products, and shipping. The primary goal is to extract valuable insights, identify patterns, and uncover trends within the dataset. This analysis aims to provide a comprehensive understanding of the Amazon sales data, enabling stakeholders to make informed decisions based on the findings.
 
-**Skills**: Excel, SQL queries, Database Management, ETL, and Tableau
+By utilizing SQL's querying capabilities, the project aims to delve deep into the data, exploring various aspects such as sales trends over time, popular products, geographical sales distribution, shipping patterns, and customer behavior. The insights gained from this analysis can be used to optimize sales strategies, improve inventory management, enhance customer experience, and drive business growth.
+
+**Skills**: Excel, SQL queries, SQL joins, and Database Management
 
 
 ## [Project 4: Machine Learning: Finding Optimal Model and Hyperparameters](https://github.com/Kholeka98/Machine-learning)
