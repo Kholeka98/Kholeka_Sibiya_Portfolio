@@ -27,9 +27,7 @@ The objective of this SQL project is to conduct a comprehensive performance anal
 **Skills**: Excel, SQL queries, and Database Management
 
 ## [Project 4: Amazon Online Sales Analysis](https://github.com/Kholeka98/Amazon-analysis)
-In this project, the focus is on conducting a thorough analysis of an Amazon online sales dataset using SQL queries. The dataset contains information on sales, products, and shipping. The primary goal is to extract valuable insights, identify patterns, and uncover trends within the dataset. This analysis aims to provide a comprehensive understanding of the Amazon sales data, enabling stakeholders to make informed decisions based on the findings.
-
-By utilizing SQL's querying capabilities, the project aims to delve deep into the data, exploring various aspects such as sales trends over time, popular products, geographical sales distribution, shipping patterns, and customer behavior. The insights gained from this analysis can be used to optimize sales strategies, improve inventory management, enhance customer experience, and drive business growth.
+The project objective is to retrieve data from an Amazon online sales dataset using SQL queries. The dataset contains information on sales, products, and shipping. The goal is to extract valuable insights, identify patterns, and uncover trends within the dataset. This analysis aims to provide stakeholders with a comprehensive understanding of the Amazon sales data.
 
 **Skills**: Excel, SQL queries, SQL joins, and Database Management
 
