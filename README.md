@@ -1,6 +1,6 @@
 # [Data Analytics Portfolio](https://github.com/Kholeka98/Kholeka_Sibiya_Portfolio.github.io)
 
-## [Project 1: Exploratory Data Analysis](https://github.com/Kholeka98/Data_Cleaning_Excel/blob/main)
+## [Project 1: Cookie Business Data Analysis](https://github.com/Kholeka98/Cookie-business-Analysis/tree/main)
 
 ### Project Objective
 To gain deeper insights into customer behaviour within our cookie business, particularly their purchasing patterns across various cookie types. We aim to pinpoint both the top-selling cookie varieties and those experiencing lower sales rates.
