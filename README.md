@@ -12,7 +12,7 @@ To gain deeper insights into customer behaviour within our cookie business, part
 ### Project Objective
 The primary objective of this project is to provide actionable insights to the marketing team regarding sales performance across various locations and product types. By addressing key questions such as revenue generation per location, the correlation between price and product sales across different product types, and identifying the highest revenue-generating product types, this initiative aims to empower the marketing team to optimize revenue streams effectively. Ultimately, the project seeks to facilitate informed decision-making and the formulation of targeted strategies to enhance overall sales performance and maximize revenue potential.
 
-**Skills**: Python, Business Analysis, Data aggregation, and Data visualization
+**Skills**: Python, Business Analysis, Data aggregation, and Data visualization.
 
 ## [Project 3: Performance Evaluation Analysis](https://github.com/Kholeka98/Performance-Evaluation)
 
@@ -24,12 +24,12 @@ The objective of this SQL project is to conduct a comprehensive performance anal
 - **Uncover Insights**: Extract actionable insights from the analysis to understand which products are performing well and which may require further attention or improvement strategies.
 - **Inform Decision-Making**: Provide stakeholders with valuable insights to inform decision-making processes related to product management, marketing strategies, inventory planning, and resource allocation.
 
-**Skills**: Excel, SQL queries, and Database Management
+**Skills**: Excel, SQL queries, and Database Management.
 
 ## [Project 4: Amazon Online Sales Analysis](https://github.com/Kholeka98/Amazon-analysis)
 The project objective is to retrieve data from an Amazon online sales dataset using SQL queries. The dataset contains information on sales, products, and shipping. The goal is to extract valuable insights, identify patterns, and uncover trends within the dataset. This analysis aims to provide stakeholders with a comprehensive understanding of the Amazon sales data.
 
-**Skills**: Excel, SQL queries, SQL joins, and Database Management
+**Skills**: Excel, SQL queries, SQL joins, and Database Management.
 
 
 ## [Project 5: Machine Learning: Telco Customer Churning](https://github.com/Kholeka98/Customer-Churning-model)
@@ -37,9 +37,10 @@ The project objective is to retrieve data from an Amazon online sales dataset us
 ### Project Overview
 Develop a machine learning model to accurately predict customer churn in a telecommunications company. By analyzing customer demographic information, service usage patterns, and historical churn data, the goal is to identify factors contributing to churn and build a predictive model that can proactively identify at-risk customers. The ultimate objective is to help the company reduce churn rates, improve customer retention, and enhance overall business profitability.
 
+**Skills**: Data Cleaning, Exploratory Data Analysis,  Data Visualization, Feature Selection, Model building, and Model Evaluation.
 
 ## [Project 6: Tableau Project Portfolio](https://public.tableau.com/app/profile/kholeka.sibiya/vizzes)
 ### Project Overview
 To showcase a diverse collection of Tableau projects that demonstrate my proficiency in data visualization and analysis, as well as my ability to derive insights from various datasets. Through this portfolio, I aim to share my expertise in transforming complex data into visually appealing and informative dashboards, while also highlighting my creative approach to solving real-world problems through data-driven decision-making.
 
-**Skills**: Data Visualization, Data Cleaning, ETL and Data Manipulation
+**Skills**: Data Cleaning, Data Visualization,  ETL and Data Manipulation.
