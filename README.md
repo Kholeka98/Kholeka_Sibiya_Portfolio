@@ -32,10 +32,10 @@ The project objective is to retrieve data from an Amazon online sales dataset us
 **Skills**: Excel, SQL queries, SQL joins, and Database Management
 
 
-## [Project 5: Machine Learning: Finding Optimal Model and Hyperparameters](https://github.com/Kholeka98/Machine-learning)
+## [Project 5: Machine Learning: Telco Customer Churning](https://github.com/Kholeka98/Customer-Churning-model)
 
 ### Project Overview
-The aim of this project is to develop an optimal predictive model for estimating car prices accurately. Leveraging machine learning techniques and advanced data analytics, the project seeks to create a robust model that accounts for various factors influencing car prices, such as make, model, year, mileage, and features.
+Develop a machine learning model to accurately predict customer churn in a telecommunications company. By analyzing customer demographic information, service usage patterns, and historical churn data, the goal is to identify factors contributing to churn and build a predictive model that can proactively identify at-risk customers. The ultimate objective is to help the company reduce churn rates, improve customer retention, and enhance overall business profitability.
 
 
 ## [Project 6: Tableau Project Portfolio](https://public.tableau.com/app/profile/kholeka.sibiya/vizzes)
